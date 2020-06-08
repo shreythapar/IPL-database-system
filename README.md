@@ -1,2 +1,2 @@
-# IPL-DB
+# IPL
 Ipl database
